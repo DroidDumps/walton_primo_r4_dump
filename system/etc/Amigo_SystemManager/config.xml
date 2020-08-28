@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>	
+<CBL7501>
+        <battery_capacity>2700</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>1000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>450</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>185</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>12</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>0.5</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>84</zero_ten_time>
+        <ten_twenty_time>86</ten_twenty_time>
+        <twenty_thirty_time>80</twenty_thirty_time>
+        <thirty_forty_time>88</thirty_forty_time>
+        <forty_fifty_time>89</forty_fifty_time>
+        <fifty_sixty_time>90</fifty_sixty_time>
+        <sixty_seventy_time>92</sixty_seventy_time>
+        <seventy_eight_time>93</seventy_eight_time>
+        <eight_ninety_time>95</eight_ninety_time>
+        <ninety_hundred_time>97</ninety_hundred_time>
+</CBL7501>
+<WBL7311A>
+        <battery_capacity>5000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>2000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>146</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>10</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>0.79</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>140</zero_ten_time>
+        <ten_twenty_time>139</ten_twenty_time>
+        <twenty_thirty_time>142</twenty_thirty_time>
+        <thirty_forty_time>143</thirty_forty_time>
+        <forty_fifty_time>143</forty_fifty_time>
+        <fifty_sixty_time>145</fifty_sixty_time>
+        <sixty_seventy_time>148</sixty_seventy_time>
+        <seventy_eight_time>147</seventy_eight_time>
+        <eight_ninety_time>154</eight_ninety_time>
+        <ninety_hundred_time>158</ninety_hundred_time>
+</WBL7311A>
+
+<WBW5518A>
+        <battery_capacity>1800</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>800</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>333</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>7</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>2.37</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>71</zero_ten_time>
+        <ten_twenty_time>46</ten_twenty_time>
+        <twenty_thirty_time>48</twenty_thirty_time>
+        <thirty_forty_time>43</thirty_forty_time>
+        <forty_fifty_time>41</forty_fifty_time>
+        <fifty_sixty_time>40</fifty_sixty_time>
+        <sixty_seventy_time>43</sixty_seventy_time>
+        <seventy_eight_time>45</seventy_eight_time>
+        <eight_ninety_time>39</eight_ninety_time>
+        <ninety_hundred_time>35</ninety_hundred_time>
+</WBW5518A>
+
+<WBW5612A>
+        <battery_capacity>3000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>1000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>450</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>316</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>7</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>1.75</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>103</zero_ten_time>
+        <ten_twenty_time>57</ten_twenty_time>
+        <twenty_thirty_time>50</twenty_thirty_time>
+        <thirty_forty_time>49</thirty_forty_time>
+        <forty_fifty_time>52</forty_fifty_time>
+        <fifty_sixty_time>55</fifty_sixty_time>
+        <sixty_seventy_time>54</sixty_seventy_time>
+        <seventy_eight_time>58</seventy_eight_time>
+        <eight_ninety_time>55</eight_ninety_time>
+        <ninety_hundred_time>47</ninety_hundred_time>
+</WBW5612A>
+<GBL5805A>
+        <battery_capacity>3520</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>3000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>280</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>6</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>1.63</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>46</zero_ten_time>
+        <ten_twenty_time>60</ten_twenty_time>
+        <twenty_thirty_time>60</twenty_thirty_time>
+        <thirty_forty_time>65</thirty_forty_time>
+        <forty_fifty_time>75</forty_fifty_time>
+        <fifty_sixty_time>80</fifty_sixty_time>
+        <sixty_seventy_time>74</sixty_seventy_time>
+        <seventy_eight_time>66</seventy_eight_time>
+        <eight_ninety_time>75</eight_ninety_time>
+        <ninety_hundred_time>80</ninety_hundred_time>
+</GBL5805A>
+<WBL7325A>
+        <battery_capacity>2400</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>1000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>191</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>18</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>1.75</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>33</zero_ten_time>
+        <ten_twenty_time>46</ten_twenty_time>
+        <twenty_thirty_time>45</twenty_thirty_time>
+        <thirty_forty_time>47</thirty_forty_time>
+        <forty_fifty_time>47</forty_fifty_time>
+        <fifty_sixty_time>48</fifty_sixty_time>
+        <sixty_seventy_time>55</sixty_seventy_time>
+        <seventy_eight_time>50</seventy_eight_time>
+        <eight_ninety_time>51</eight_ninety_time>
+        <ninety_hundred_time>43</ninety_hundred_time>
+</WBL7325A>
+<WBW5613A>
+        <battery_capacity>2000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>450</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>450</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>309</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>5.2</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>2.13</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>37</zero_ten_time>
+        <ten_twenty_time>43</ten_twenty_time>
+        <twenty_thirty_time>34</twenty_thirty_time>
+        <thirty_forty_time>38</thirty_forty_time>
+        <forty_fifty_time>38</forty_fifty_time>
+        <fifty_sixty_time>38</fifty_sixty_time>
+        <sixty_seventy_time>38</sixty_seventy_time>
+        <seventy_eight_time>41</seventy_eight_time>
+        <eight_ninety_time>39</eight_ninety_time>
+        <ninety_hundred_time>39</ninety_hundred_time>
+</WBW5613A>
+
+<BBL7313A>
+        <battery_capacity>6020</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>2000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>450</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>270</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>12.9</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>1.6</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>86</zero_ten_time>
+        <ten_twenty_time>101</ten_twenty_time>
+        <twenty_thirty_time>127</twenty_thirty_time>
+        <thirty_forty_time>126</thirty_forty_time>
+        <forty_fifty_time>130</forty_fifty_time>
+        <fifty_sixty_time>131</fifty_sixty_time>
+        <sixty_seventy_time>134</sixty_seventy_time>
+        <seventy_eight_time>137</seventy_eight_time>
+        <eight_ninety_time>130</eight_ninety_time>
+        <ninety_hundred_time>125</ninety_hundred_time>
+</BBL7313A>
+
+<WBL7315A>
+        <battery_capacity>4000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>1000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>450</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>295</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>12.7</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>2.0</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>52</zero_ten_time>
+        <ten_twenty_time>55</ten_twenty_time>
+        <twenty_thirty_time>56</twenty_thirty_time>
+        <thirty_forty_time>57</thirty_forty_time>
+        <forty_fifty_time>63</forty_fifty_time>
+        <fifty_sixty_time>68</fifty_sixty_time>
+        <sixty_seventy_time>70</sixty_seventy_time>
+        <seventy_eight_time>71</seventy_eight_time>
+        <eight_ninety_time>72</eight_ninety_time>
+        <ninety_hundred_time>75</ninety_hundred_time>
+</WBL7315A>
+
+<GBL7321A>
+        <battery_capacity>2000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>745</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>415</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>185</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>7.6</current_in_supermode>  <!-- 极致省电模式待机电流,mA -->
+        <current_per_brightness>0.2</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+
+        <zero_ten_time>62</zero_ten_time>
+        <ten_twenty_time>63</ten_twenty_time>
+        <twenty_thirty_time>65</twenty_thirty_time>
+        <thirty_forty_time>63</thirty_forty_time>
+        <forty_fifty_time>63</forty_fifty_time>
+        <fifty_sixty_time>66</fifty_sixty_time>
+        <sixty_seventy_time>65</sixty_seventy_time>
+        <seventy_eight_time>70</seventy_eight_time>
+        <eight_ninety_time>70</eight_ninety_time>
+        <ninety_hundred_time>75</ninety_hundred_time>
+</GBL7321A>
+ </project>
