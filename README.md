@@ -1,0 +1,13 @@
+# full_gionee6735_65c_l-user 5.0 LRX21M 1462279721 release-keys
+- manufacturer: walton
+- platform: mt6735
+- codename: Primo_R4
+- flavor: user
+- release: 5.0
+- id: LRX21M
+- incremental: 1462279721
+- tags: release-keys
+- fingerprint: WALTON/Primo_R4/Primo_R4:5.0/LRX21M/1445082105:user/release-keys
+- brand: WALTON
+- branch: full_gionee6735_65c_l-user-5.0-LRX21M-1462279721-release-keys
+- repo: walton_primo_r4_dump

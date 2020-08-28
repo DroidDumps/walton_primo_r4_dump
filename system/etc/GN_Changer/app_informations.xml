@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<change animationtime="400" margin="animation_margin" icontextpadding="-35" background="background" cancelicon="finish_icon">
+    <!--    
+    <item name="appname">
+        <icon>icon</icon>
+        <action extras="bundle_key:bundle_value">gn.com.android.theme.Theme</action>
+        <activity>packagename/.classname</activity>
+        <flag>activity(braodcast)</flag>       
+    </item>
+     
+
+ 
+	<item name="lock_name">
+        <icon>new_lock</icon>
+        <action>gn.com.gionee.lockscreen.LockScreenManager</action>
+        <flag>activity</flag>
+    </item>
+   -->
+
+    <item name="theme_name">
+        <icon>new_theme</icon>
+        <action>gn.com.android.theme.Theme</action>
+        <flag>activity</flag>       
+    </item>
+    
+    <item name="wallpaper_name">
+        <icon>new_wallpaper</icon>
+        <action>com.gionee.change.wallpaper</action>
+        <flag>activity</flag> 
+    </item>
+    
+	<item name="effect_name">
+        <icon>new_effect</icon>
+        <action extras="gnlauncher.EffectsListRequest:com.gionee.change.SpecEffectList.Receive">android.intent.action.gnlauncher.GET_DT_EFFECTS_LIST</action>
+        <flag>broadcast</flag>
+	</item>
+	
+	<item name="font_name">
+        <icon>new_font</icon>
+        <action>android.intent.action.komoxo.START_FONTMANAGER_ACTIVITY</action>
+        <activity>com.komoxo.fontmgr/.FontManagerActivity</activity>
+        <flag>activity</flag>
+    </item>
+      <!--   
+    <item name="ringtones_name">
+        <icon>new_ringtones</icon>
+        <action>android.intent.action.crbt</action>
+        <flag>activity</flag>
+    </item>
+     -->
+</change>
